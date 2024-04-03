@@ -5,7 +5,7 @@ FR
 Projet : Système De Gestion De Bibliothèque - API REST déployé sur Azure cloud.
 Technologies: Backend Java - Spring Boot - PostgreSQL - Docker.
 
-Description: C'est une API simpliste d'un système de gestion de librairie
+Description: C'est une API simpliste d'un système de gestion de bibliothèque
 inspiré du cours en ligne de Devtiro disponible sur:
 https://www.youtube.com/watch?v=Nv2DERaMx-4
 
