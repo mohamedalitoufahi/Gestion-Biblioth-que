@@ -17,8 +17,6 @@ d'un logiciel tel que les tests unitaires et les tests d'integration
 ainsi que l'intégration des bases de données.
 Dans ce projet j'ai experimenté avec PostgreSQL et docker.
 
-Déploiement:
-Docker est le container de choix dans ce projet déployé sur Azure Cloud.
 
 ----------------------------------------------------------------------------------------------------
 EN
@@ -35,6 +33,3 @@ It highlights the basics of Java backend development
 and the necessary elements in the software development lifecycle
 such as unit testing, integration testing, and database integration.
 In this project, I experimented with PostgreSQL and Docker.
-
-Deployment:
-Docker is the container of choice in this project deployed on Azure Cloud.
